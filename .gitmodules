@@ -1,0 +1,6 @@
+[submodule "test"]
+	path = test
+	url = https://github.com/arexxxx/test.git
+[submodule "bootstrap"]
+	path = bootstrap
+	url = https://github.com/twbs/bootstrap.git
